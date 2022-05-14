@@ -6,13 +6,9 @@ I'm programming MCU and writing C++ code to communicate PC and Robots.
 **languages and tools:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 <code><img height="20" src="https://ethercat.org/images/template/logo.gif"></code>
-
 <code><img height="20" src="https://fivel.ru/media/image_gallery/2017/08/29/texasinstruments.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
