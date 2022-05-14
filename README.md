@@ -18,7 +18,7 @@ I'm programming MCU and writing C++ code to communicate PC and Robots.
 📈 my github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SozonovAA&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SozonovAA&layout=compact&theme=gotham&custom_title=Statistics)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SozonovAA&layout=compact&theme=gotham&custom_title=Statistics" />
 <!--
 **SozonovAA/SozonovAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
