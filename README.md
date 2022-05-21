@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Andrey Sozonov, electric drive software engineer.
 
-#### 🔭 I’m currently work for [Diakont] <code><img height="30" src="http://www.diakont.ru/uploads/sitelogo/1525329517_1467369681_logo.png"></code> 
+#### 🔭 I’m currently work for Diakont <code><img height="30" src="http://www.diakont.ru/uploads/sitelogo/1525329517_1467369681_logo.png"></code> 
 I'm programming MCU and writing C++ code to communicate PC and Robots.
 
 **languages and tools:** 
